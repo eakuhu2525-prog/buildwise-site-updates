@@ -3,7 +3,8 @@
 ## Current release gate
 - Gate: **4B — BLOCKED**
 - Staging commit: `2bb07d1a53e2ed1024ee27844fefd59cc0cc80aa`
-- Staging deployment: succeeded
+- Staging deployment: **succeeded** — version 8
+- Staging URL: https://buildwise-site-updates-staging.eakuhu2525.chatgpt.site
 - Production: **v123 FROZEN**
 - Production deployment: **NOT ALLOWED**
 - UAT: **NOT STARTED**
